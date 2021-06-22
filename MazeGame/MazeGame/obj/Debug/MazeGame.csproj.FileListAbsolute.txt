@@ -1,0 +1,10 @@
+C:\Users\lenovo\source\repos\MazeGame\MazeGame\bin\Debug\MazeGame.exe.config
+C:\Users\lenovo\source\repos\MazeGame\MazeGame\bin\Debug\MazeGame.exe
+C:\Users\lenovo\source\repos\MazeGame\MazeGame\bin\Debug\MazeGame.pdb
+C:\Users\lenovo\source\repos\MazeGame\MazeGame\obj\Debug\MazeGame.Form1.resources
+C:\Users\lenovo\source\repos\MazeGame\MazeGame\obj\Debug\MazeGame.Properties.Resources.resources
+C:\Users\lenovo\source\repos\MazeGame\MazeGame\obj\Debug\MazeGame.csproj.GenerateResource.cache
+C:\Users\lenovo\source\repos\MazeGame\MazeGame\obj\Debug\MazeGame.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\MazeGame\MazeGame\obj\Debug\MazeGame.exe
+C:\Users\lenovo\source\repos\MazeGame\MazeGame\obj\Debug\MazeGame.pdb
+C:\Users\lenovo\source\repos\MazeGame\MazeGame\obj\Debug\MazeGame.csproj.AssemblyReference.cache
